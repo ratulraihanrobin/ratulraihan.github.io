@@ -1,0 +1,49 @@
+
+
+.main-continar{
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+
+.continar1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: 33% 33% 33%;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+.pragraph{
+    
+    margin-top: -10px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 120px;
+      
+}
+button{
+    font-size: 15px;
+    background: none;
+    border: 0.5px solid Tomato;
+    color: Tomato;
+    padding:3px 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+button:hover{
+    background-color: Tomato;
+  color: white;
+  transition-duration: 0.4s;
+}
